@@ -4,7 +4,7 @@ import { Message } from '@/types/chat';
  * API Configuration
  * Replace this URL with your actual backend API endpoint
  */
-const API_ENDPOINT = process.env.NEXT_PUBLIC_API_ENDPOINT || '/api/chat';
+const _API_ENDPOINT = process.env.NEXT_PUBLIC_API_ENDPOINT || '/api/chat';
 
 /**
  * Send a message to the AI chat API
