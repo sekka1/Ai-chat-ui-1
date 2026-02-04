@@ -236,7 +236,7 @@ Closes #issue_number (if applicable)
 - `next.config.js` - Next.js configuration (static export settings)
 - `tailwind.config.js` - Tailwind CSS configuration
 - `tsconfig.json` - TypeScript configuration
-- `.eslintrc.json` - ESLint configuration
+- `eslint.config.mjs` - ESLint configuration (ESLint 9 flat config)
 
 ### Key Files
 
